@@ -1,0 +1,8 @@
+There are 78498 primes less than 1000000
+First three primes:2 3 5 
+Last three primes:999983 999979 999961 
+elapsed time = 474.598918 (sec)
+There are 664579 primes less than 10000000
+First three primes:2 3 5 
+Last three primes:9999991 9999973 9999971 
+elapsed time = 39913.438500 (sec)
